@@ -1,11 +1,11 @@
 {
-    "name": "maksa988/laravel-unitpay",
+    "name": "jonhwu/laravel-unitpay",
     "description": "UnitPay payments for Laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "maksa988",
-            "email": "maksa988ua@gmail.com"
+            "name": "JonhWu",
+            "email": "jonhwu@ya.ru"
         }
     ],
     "require": {
@@ -34,10 +34,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Maksa988\\UnitPay\\UnitPayServiceProvider"
+                "JonhWu\\UnitPay\\UnitPayServiceProvider"
             ],
             "aliases": {
-                "UnitPay": "Maksa988\\UnitPay\\Facades\\UnitPay"
+                "UnitPay": "JonhWu\\UnitPay\\Facades\\UnitPay"
             }
         }
     }

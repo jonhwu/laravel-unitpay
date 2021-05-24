@@ -19,13 +19,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Maksa988\\UnitPay\\Facades\\": "src/Facades",
-            "Maksa988\\UnitPay\\": "src"
+            "JonhWu\\UnitPay\\Facades\\": "src/Facades",
+            "JonhWu\\UnitPay\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Maksa988\\UnitPay\\Test\\": "tests/"
+            "JonhWu\\UnitPay\\Test\\": "tests/"
         }
     },
     "config": {
